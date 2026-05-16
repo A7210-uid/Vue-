@@ -1,0 +1,3 @@
+1.使用Echarts,进入官网：https://echarts.org.cn/handbook/en/basics/download/
+2.项目根目录，安装依赖：npm i echarts 
+3.把第一步echarts组件IndexChart的使用放置在最后面
